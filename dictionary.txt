@@ -1,23 +1,24 @@
-Raesfeld
-Flughafen
-Berlin
-Bratwurst
-Hauptstrasse
-Brot
-Gauss - Gauß
+Raesfeld - a municipality in the district of Borken in the state of North Rhine-Westphalia, Germany
+Flughafen - airpot
+Berlin - Germany's capital
+Bratwurst - a type of German sausage
+Hauptstrasse - main road
+Brot - loaf
+Gauss - German mathematician and physicist
 Klimaanlage - air conditioning
-RammsteinMusik
+RammsteinMusik - Rammstein Music
 Porsche - Porsche
-BMW
-Biergarten
-Ratskeller
-Dirndel
-Lederhose
-Audi
-Schloss
-Munich
-wet-tbewerbsfaehig
-Mehlhase
-Gebaeck
-Baeckerei
-Hund
+BMW - BMW
+Biergarten - beer garden
+Ratskeller -  bar or restaurant located in the basement of a city hall
+Dirndel - Dirndel
+Lederhose - Lederhose
+Audi - Audi
+Schloss - Lock
+Munich - Bavaria's Capital
+wet-tbewerbsfaehig - competitive
+Mehlhase - flour bunny
+Gebaeck - pasteries
+Baeckerei - bakery
+Hund - dog
+
